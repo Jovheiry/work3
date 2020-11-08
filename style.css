@@ -64,3 +64,10 @@ section p{
     border: none;
     border-radius: 5px;
 }
+.container-video{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}
+
