@@ -6,7 +6,7 @@
 .container-header{
     width: 100%;
     height: 480px;
-    background-color:aqua;
+    background-color: blue;
 }
 
 .container-section-promo{
@@ -19,7 +19,7 @@
 .item-article{
     width: 30%;
     height: 100px;
-    background-color: aqua;
+    background-color: blue;
 
 }
 section p{
